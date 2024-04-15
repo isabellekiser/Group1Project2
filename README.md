@@ -22,3 +22,19 @@ Ryan Schoessling
 
 Jaiden Timmons 
 [@jaidentimmons](https://github.com/jaidentimmons)
+
+
+### Describe dataset
+
+### Question 1:
+question
+importance
+graphs
+
+### Question 2:
+question
+importance
+graphs
+
+### Manipulations applied to the data set for analysis:
+if any
