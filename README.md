@@ -24,7 +24,7 @@ Jaiden Timmons
 [@jaidentimmons](https://github.com/jaidentimmons)
 
 
-### Describe dataset
+### Dataset Description
 
 ### Question 1:
 question
