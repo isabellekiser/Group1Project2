@@ -47,18 +47,16 @@ Using this dataset has allowed us to construct comprehensive visualizations, ena
 
 ### Question 1:
 question
-importance
-graphs
+2 graphs
+*Importance*
 
 ### Question 2:
 What is the relationship between vehicle damage extent and injury severity in crashes?
 Analyze how the extent of vehicle damage correlates with the severity of injuries sustained by occupants, potentially to evaluate the effectiveness of vehicle safety features.
 
-importance
-graphs
-
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
+*Importance*
 
 ### Manipulations applied to the data set for analysis:
 if any
