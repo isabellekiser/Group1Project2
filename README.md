@@ -56,6 +56,10 @@ Analyze how the extent of vehicle damage correlates with the severity of injurie
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
+![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/c05d4179-9dec-4be3-b569-8a21dbc1ccfe)
+
+![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/26000876-d2b6-4d2e-97d6-4d1f8d11a6f5)
+
 *Importance*
 
 ### Manipulations applied to the data set for analysis:
