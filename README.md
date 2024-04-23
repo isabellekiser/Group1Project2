@@ -57,7 +57,7 @@ Analyze how the extent of vehicle damage correlates with the severity of injurie
 importance
 graphs
 
-![Project2MIST4610SS1](https://github.com/isabellekiser/Group1Project2/assets/150094078/9b7cb16d-bfb7-4c4d-82d7-b667304f1f53)
+![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
 
 ### Manipulations applied to the data set for analysis:
