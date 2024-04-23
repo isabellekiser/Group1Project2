@@ -32,9 +32,9 @@ The dataset, sourced from https://catalog.data.gov/dataset/crash-reporting-drive
 
 - Crash details: covering elements such as crash date/time, municipality, latitude, longitude, location, route type, road name, cross-street type, cross-street name, and off-road description.
 
-- Involved parties: including related non-motorist, person ID, driver at fault, driver substance abuse, non-motorist substance abuse, injury severity, drivers license state, and driver distraction status.
+- Involved parties: related non-motorist, person ID, driver at fault, driver substance abuse, non-motorist substance abuse, injury severity, driver's license state, and driver distraction status.
 
-- Collision specifics: such as collision type, vehicle damage extent, vehicle first impact locations, vehicle second impact location, vehicle body type, vehicle movement, vehicle continuing direction, and vehicle going direction.
+- Collision specifics: collision type, vehicle damage extent, vehicle first impact locations, vehicle second impact location, vehicle body type, vehicle movement, vehicle continuing direction, and vehicle going direction.
 
 - Vehicle information: encompassing vehicle ID, vehicle year, vehicle make, vehicle model, and equipment problems.
 Environmental conditions: covering weather, surface condition, light, traffic control, and speed limit.
@@ -46,13 +46,14 @@ Using this dataset has allowed us to construct comprehensive visualizations, ena
 
 
 ### Question 1:
-question
+Does the time of day correlate with the rate of driver substance abuse in reported crashes?
+
 2 graphs
-*Importance*
+
+These graphs are important because knowing if crashes involving substance abuse occur more frequently during certain times of the day, such as late nights or early mornings, maybe more precautions could be implemented during those times.
 
 ### Question 2:
 What is the relationship between vehicle damage extent and injury severity in crashes?
-Analyze how the extent of vehicle damage correlates with the severity of injuries sustained by occupants, potentially to evaluate the effectiveness of vehicle safety features.
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
@@ -60,7 +61,7 @@ Analyze how the extent of vehicle damage correlates with the severity of injurie
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/26000876-d2b6-4d2e-97d6-4d1f8d11a6f5)
 
-*Importance*
+If the extent of vehicle damage correlates with the severity of injuries sustained by occupants, these visualizations could potentially be used to evaluate the effectiveness of vehicle safety features.
 
 ### Manipulations applied to the data set for analysis:
 if any
