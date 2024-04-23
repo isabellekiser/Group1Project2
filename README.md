@@ -51,7 +51,9 @@ importance
 graphs
 
 ### Question 2:
-question
+What is the relationship between vehicle damage extent and injury severity in crashes?
+Analyze how the extent of vehicle damage correlates with the severity of injuries sustained by occupants, potentially to evaluate the effectiveness of vehicle safety features.
+
 importance
 graphs
 
