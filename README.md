@@ -55,5 +55,8 @@ question
 importance
 graphs
 
+![Project2MIST4610SS1](https://github.com/isabellekiser/Group1Project2/assets/150094078/9b7cb16d-bfb7-4c4d-82d7-b667304f1f53)
+
+
 ### Manipulations applied to the data set for analysis:
 if any
