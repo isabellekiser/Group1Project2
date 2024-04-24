@@ -66,6 +66,7 @@ Our first question involves analyzing drivers who were sober vs under the influe
 12. UNKNOWN
 Our group needed to isolate all variables that included being impaired into one group that contrasted with the crashes where nothing was present. To do this we created this calculated field:
 IF [Driver Substance Abuse] = 'UNKNOWN' OR [Driver Substance Abuse] = 'N/A' THEN NULL ELSEIF[Driver Substance Abuse] = 'NONE DETECTED' THEN 'Sober' ELSE 'Under the Influence' END
+
 We named this field "Sober vs Under the Influence" and it was a key column for visualising our data through graphs.
 
 ### Graphs:
