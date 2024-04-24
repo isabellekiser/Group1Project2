@@ -72,6 +72,10 @@ IF [Driver Substance Abuse] = 'UNKNOWN' OR [Driver Substance Abuse] = 'N/A' THEN
 We named this field "Sober vs Under the Influence" and while using it we filtered out "OTHER", "UNKNOWN", "N/A", and "NULL" in order to purely compare sober vs under the influence crashes. Creating this calculated field was critical in enabling us to visualize exactly what we wanted to through our graphs.
 
 ### Graphs:
+<img width="628" alt="Screenshot 2024-04-24 at 3 28 57 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/ef0fa98e-b59f-4af5-8017-c7c89c66e584">
+
+<img width="624" alt="Screenshot 2024-04-24 at 3 30 06 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/39cd0b3f-1add-4806-bef7-8849cca40cff">
+
 
 ### Question 2:
 How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?
