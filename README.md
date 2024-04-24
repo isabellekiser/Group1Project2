@@ -84,7 +84,11 @@ This data provides valuable insights for law enforcement and public safety campa
 
 <img width="1221" alt="Screenshot 2024-04-24 at 3 31 18 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/8988edd5-66f3-42cd-91dc-6a117350404f">
 
--
+This geographic scatter plot illustrates the distribution of sober versus under-the-influence crashes across a geographic area. From the data represented on the map, we can draw several conclusions about the patterns of these accidents.
+Sober accidents, marked in teal, are notably concentrated along major roads and within city limits, which are typically areas with higher traffic density and speed. These locations often correspond with highways and main streets where the higher volume of vehicles and complex driving environments increase the likelihood of accidents. The frequency and clustering of accidents in these areas may be indicative of the challenges of navigating busy roads, especially during peak traffic times when the volume of sober drivers is at its highest.
+In contrast, under-the-influence accidents, marked in red, show a different distribution pattern. These incidents are more scattered and frequently occur on smaller roads, which tend to be local streets rather than major highways. The pattern suggests that driving under the influence crashes happen relatively close to neighborhoods or outside of central city areas. It makes sense that these would occur on less major roads, as individuals might assume they can safely drive short distances to their homes after consuming substances, underestimating the risk of an accident. This behavior reflects a false sense of security when driving on familiar or local roads, despite the impairment of their driving abilities.
+
+The distinction in the location of these accidents highlights different risk profiles and suggests that prevention efforts might need to be tailored accordingly. For sober accidents, safety campaigns could focus on high-traffic areas and emphasize defensive driving. In the case of under-the-influence accidents, interventions might include promoting the use of ride-sharing services, especially in areas with nightlife establishments, and increasing patrols on secondary roads where such accidents are more prevalent.
 
 ### Question 2:
 How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?
