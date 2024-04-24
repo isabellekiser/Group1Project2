@@ -48,8 +48,9 @@ Using this dataset has allowed us to construct comprehensive visualizations, ena
 ### Question 1:
 How does the hour of the day influence the prevalence of sobriety and substance abuse in reported crashes in Maryland, and are there specific locations in Maryland where sobriety and substance abuse incidents are markedly more frequent?
 
+The question regarding how the hour of the day influences the prevalence of sobriety and substance abuse in reported crashes in Maryland, and the identification of specific locations where these incidents are markedly more frequent, holds significant importance in many dimensions. Socially, pinpointing temporal and geographical patterns can facilitate targeted public awareness campaigns, fostering a cultural shift towards more responsible behavior and enhancing community safety. Economically, understanding these patterns helps mitigate the substantial costs associated with crashes, such as medical expenses and productivity losses, by enabling more effective preventive measures. From a public safety perspective, this data allows for strategic planning and resource allocation, such as increasing law enforcement presence during high-risk periods and improving road safety in prone areas, thus preventing accidents and saving lives. This multifaceted importance underscores the value of the data in driving informed decisions and interventions.
 
-2 graphs
+### Data Set Manipulation:
 
 These graphs are important because knowing if crashes involving substance abuse occur more frequently during certain times of the day, such as late nights or early mornings, maybe more precautions could be implemented during those times.
 
