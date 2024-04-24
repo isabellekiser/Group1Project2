@@ -74,7 +74,11 @@ We named this field "Sober vs Under the Influence" and while using it we filtere
 ### Graphs and Analysis:
 <img width="1222" alt="Screenshot 2024-04-24 at 3 30 57 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/1a3068cd-b4fb-411a-8550-f2ebc39b5a78">
 
--
+Analyzing the line graph, we observe a noteworthy trend between sober and under-the-influence crashes throughout a 24-hour period. The data points represent the distinct count of report numbers for each category, plotted against the hour of the day.
+From midnight (0) to the early morning hours, sober accident are relaively low numbers. Sober accidents then experience a sharp increase from 6 AM, appearing to peak dramatically between 5 PM and 6 PM. This peak corresponds with typical rush hours and increased vehicular activity as people commute for work and other daytime activities. Post 6 PM, the count for sober accidents gradually declines but remains relatively high until the late evening.
+In contrast, under-the-influence crashes maintain a low profile during the day, with a slight uptick in the early afternoon. However, as we transition into the evening and night, particularly from 6 PM onwards, there is a substantial increase in under-the-influence crashes. This rise continues to grow, peaking around the late-night hours. The increase in accidents under the influence during these hours likely correlates with social activities where alcohol and other substances may be consumed, such as dinners, parties, and late-night gatherings.
+The inverse relationship between the two types of accidents is particularly interesting; when sober accidents decline as the day progresses into night, the under-the-influence accidents increase. The lower numbers of sober accidents in the late hours may also be attributed to reduced traffic, as fewer people are on the roads. Conversely, the night hours seem to embolden riskier behavior, such as driving under the influence, which could explain the rise in accidents during these times.
+
 
 <img width="1221" alt="Screenshot 2024-04-24 at 3 31 18 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/8988edd5-66f3-42cd-91dc-6a117350404f">
 
