@@ -79,6 +79,8 @@ From midnight (0) to the early morning hours, sober accidents are relatively low
 In contrast, under-the-influence crashes maintain a low profile during the day, with a slight uptick in the early afternoon. However, as we transition into the evening and night, particularly from 6 PM onwards, there is a substantial increase in under-the-influence crashes. This rise continues to grow, peaking around the late-night hours. The increase in accidents under the influence during these hours likely correlates with social activities where alcohol and other substances may be consumed, such as dinners, parties, and late-night gatherings.
 The inverse relationship between the two types of accidents is particularly interesting; when sober accidents decline as the day progresses into night, the under-the-influence accidents increase. The lower numbers of sober accidents in the late hours may also be attributed to reduced traffic, as fewer people are on the roads. Conversely, the night hours seem to embolden riskier behavior, such as driving under the influence, which could explain the rise in accidents during these times.
 
+This data provides valuable insights for law enforcement and public safety campaigns, suggesting the need for increased vigilance and preventative measures during specific times of the day. The peak hours for under-the-influence crashes might be targeted for sobriety checkpoints or awareness campaigns to reduce the risk of such accidents.
+
 
 <img width="1221" alt="Screenshot 2024-04-24 at 3 31 18 PM" src="https://github.com/isabellekiser/Group1Project2/assets/150088753/8988edd5-66f3-42cd-91dc-6a117350404f">
 
