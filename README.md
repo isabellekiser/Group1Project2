@@ -46,14 +46,16 @@ Using this dataset has allowed us to construct comprehensive visualizations, ena
 
 
 ### Question 1:
-Does the time of day correlate with the rate of driver substance abuse in reported crashes?
+How does the hour of the day influence the prevalence of sobriety and substance abuse in reported crashes in Maryland, and are there specific locations in Maryland where sobriety and substance abuse incidents are markedly more frequent?
+
 
 2 graphs
 
 These graphs are important because knowing if crashes involving substance abuse occur more frequently during certain times of the day, such as late nights or early mornings, maybe more precautions could be implemented during those times.
 
 ### Question 2:
-What is the relationship between vehicle damage extent and injury severity in crashes?
+How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?
+
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
