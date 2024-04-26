@@ -93,6 +93,15 @@ The distinction in the location of these accidents highlights different risk pro
 ### Question 2:
 How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?
 
+Analyzing the correlation between the extent of vehicle damage and the severity of injuries sustained by occupants in Maryland is pivotal across many domains. Socially, understanding these dynamics can inform public education efforts, emphasizing the importance of vehicle safety features and responsible driving behaviors to reduce injury severity. Economically, such insights contribute to more effective allocation of resources, guiding investments in vehicle safety technologies and healthcare infrastructure to minimize the financial burden of accidents on individuals.
+
+From a public safety standpoint, this analysis enables policymakers to develop evidence-based regulations and initiatives aimed at reducing both the frequency and severity of crashes. By identifying patterns where certain types of vehicle movements correlate with more severe injuries, authorities can implement targeted interventions such as traffic calming measures or enhanced enforcement of traffic laws to mitigate these risks.
+
+This approach empowers law enforcement agencies and emergency responders to better prepare for and respond to incidents, potentially improving outcomes through faster and more appropriate medical intervention. Ultimately, by understanding the relationship between vehicle damage, occupant injuries, and vehicle movement during crashes, this research can drive comprehensive strategies to enhance road safety and protect lives
+
+### Data Set Manipulations:
+if any
+
 ### Graphs and Analysis:
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
@@ -101,6 +110,3 @@ How does the extent of vehicle damage correlate with the severity of injuries su
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/26000876-d2b6-4d2e-97d6-4d1f8d11a6f5)
 
 If the extent of vehicle damage correlates with the severity of injuries sustained by occupants, these visualizations could potentially be used to evaluate the effectiveness of vehicle safety features.
-
-### Manipulations applied to the data set for analysis:
-if any
