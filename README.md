@@ -46,8 +46,9 @@ Using this dataset has allowed us to construct comprehensive visualizations, ena
 
 
 ### Question 1:
-How does the hour of the day influence the prevalence of sobriety and substance abuse in reported crashes in Maryland, and are there specific locations in Maryland where sobriety and substance abuse incidents are markedly more frequent?
+__How does the hour of the day influence the prevalence of sobriety and substance abuse in reported crashes in Maryland, and are there specific locations in Maryland where sobriety and substance abuse incidents are markedly more frequent?__
 
+### Importance:
 The question regarding how the hour of the day influences the prevalence of sobriety and substance abuse in reported crashes in Maryland, and the identification of specific locations where these incidents are markedly more frequent, holds significant importance in many dimensions. Socially, pinpointing temporal and geographical patterns can facilitate targeted public awareness campaigns, fostering a cultural shift towards more responsible behavior and enhancing community safety. Economically, understanding these patterns helps mitigate the substantial costs associated with crashes, such as medical expenses and productivity losses, by enabling more effective preventive measures. From a public safety perspective, this data allows for strategic planning and resource allocation, such as increasing law enforcement presence during high-risk periods and improving road safety in prone areas, thus preventing accidents and saving lives. This multifaceted importance underscores the value of the data in driving informed decisions and interventions.
 
 ### Data Set Manipulation:
@@ -91,8 +92,9 @@ In contrast, under-the-influence accidents, marked in red, show a different dist
 The distinction in the location of these accidents highlights different risk profiles and suggests that prevention efforts might need to be tailored accordingly. For sober accidents, safety campaigns could focus on high-traffic areas and emphasize defensive driving. In the case of under-the-influence accidents, interventions might include promoting the use of ride-sharing services, especially in areas with nightlife establishments, and increasing patrols on secondary roads where such accidents are more prevalent.
 
 ### Question 2:
-How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?
+__How does the extent of vehicle damage correlate with the severity of injuries sustained by occupants in Maryland, and how might the inclusion of vehicle movement at the time of the crash affect these outcomes?__
 
+### Importance:
 Analyzing the correlation between the extent of vehicle damage and the severity of injuries sustained by occupants in Maryland is pivotal across many domains. Socially, understanding these dynamics can inform public education efforts, emphasizing the importance of vehicle safety features and responsible driving behaviors to reduce injury severity. Economically, such insights contribute to more effective allocation of resources, guiding investments in vehicle safety technologies and healthcare infrastructure to minimize the financial burden of accidents on individuals.
 
 From a public safety standpoint, this analysis enables policymakers to develop evidence-based regulations and initiatives aimed at reducing both the frequency and severity of crashes. By identifying patterns where certain types of vehicle movements correlate with more severe injuries, authorities can implement targeted interventions such as traffic calming measures or enhanced enforcement of traffic laws to mitigate these risks.
