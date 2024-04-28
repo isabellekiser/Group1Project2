@@ -3,6 +3,8 @@
 
 Sp24_47114_Group 1
 
+[Question 1 Visualizations](https://outlookuga-my.sharepoint.com/:u:/g/personal/tam54565_uga_edu/EeLQLPm4-WtKtBLcgyfkAGMBaNrzB8cxZrEL8IqqWE7aQw?e=rudOZP)
+
 ### Group Members:
 
 Isabelle Kiser 
@@ -115,5 +117,3 @@ This bar graph represents the relationship between the extent of vehicle damage 
 This data visualization supports this data by offering the actual number of accidents in each group. It's particularly useful when examining categories of injury severity with significantly fewer accidents. It is difficult to compare results when the bars are small, however with the raw numbers it becomes much easier. For example, there were relatively few accidents that resulted in a fatality and it is difficult to comprehend these numbers with just the bar chart. By examining the second visualization, one can see that 125 fatal accidents resulted in a destroyed vehicle which is expected. The data contradict numerous hypotheses. For instance, one would expect a destroyed vehicle to result in at least some degree of injury, however, 3274 accidents where the vehicle was destroyed resulted in no apparent injury. In contrast, an accident with only minor superficial damage to a vehicle would presumably result in little to no injury. Contrary to this belief, there were 52 recorded accidents with serious bodily injury and one accident resulting in a fatality with superficial vehicle damage. These contradictions in logical assumptions highlight the uncertainty present in car accidents.
 
 The differences in injury severity paint a picture where a majority of accidents result in no injury, even though the largest sector of vehicle damage is disabling. For this reason, it is conclusive that modern automobiles offer extremely effective protection from accidents. It would be informative to also create a time series of this data to understand the extent to which vehicle safety has improved over time.
-
-[Question 1 Visualizations](https://outlookuga-my.sharepoint.com/:u:/g/personal/tam54565_uga_edu/EeLQLPm4-WtKtBLcgyfkAGMBaNrzB8cxZrEL8IqqWE7aQw?e=rudOZP)
