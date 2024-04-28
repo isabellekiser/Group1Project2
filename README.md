@@ -102,7 +102,7 @@ From a public safety standpoint, this analysis enables policymakers to develop e
 This approach empowers law enforcement agencies and emergency responders to better prepare for and respond to incidents, potentially improving outcomes through faster and more appropriate medical intervention. Ultimately, by understanding the relationship between vehicle damage, occupant injuries, and vehicle movement during crashes, this research can drive comprehensive strategies to enhance road safety and protect lives
 
 ### Data Set Manipulations:
-if any
+ Our second question does not involve any data manipulation. We felt that data manipulation would not be necessary because we did not have a time element. If we were to do data manipulation we would have used a forecast system. This would mean that future data would be predicted using a time element, but since we did not have a time element this was not necessary for this question in this project.
 
 ### Graphs and Analysis:
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
