@@ -116,4 +116,4 @@ This data visualization supports this data by offering the actual number of acci
 
 The differences in injury severity paint a picture where a majority of accidents result in no injury, even though the largest sector of vehicle damage is disabling. For this reason, it is conclusive that modern automobiles offer extremely effective protection from accidents. It would be informative to also create a time series of this data to understand the extent to which vehicle safety has improved over time.
 
-![Question 1 Visualizations](https://outlookuga-my.sharepoint.com/:u:/g/personal/tam54565_uga_edu/EeLQLPm4-WtKtBLcgyfkAGMBaNrzB8cxZrEL8IqqWE7aQw?e=rudOZP)
+[Question 1 Visualizations](https://outlookuga-my.sharepoint.com/:u:/g/personal/tam54565_uga_edu/EeLQLPm4-WtKtBLcgyfkAGMBaNrzB8cxZrEL8IqqWE7aQw?e=rudOZP)
