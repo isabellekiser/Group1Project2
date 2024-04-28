@@ -113,7 +113,10 @@ This approach empowers law enforcement agencies and emergency responders to bett
 ### Graphs and Analysis:
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
+*insert description*
+
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/c05d4179-9dec-4be3-b569-8a21dbc1ccfe)
+
 This bar graph represents the relationship between the extent of vehicle damage and the severity of injuries sustained in each accident. The rows are segmented into two columns, injury severity and vehicle damage. The most obvious observation is that the majority of accidents resulted in no apparent injuries. Of the accidents resulting in no apparent injury, most of the accidents resulted in disabling vehicle damage, followed closely by functional damage and superficial damage.
 
 Analyzing the relationship between vehicle damage extent and severity of injuries can be helpful in many different ways when it comes to the principle of breaking down the casualties related with car crashes. By understanding how the severity of vehicle damage correlates with the severity of injuries sustained by passengers, politicians, researchers, and safety officers can develop targeted problem solving and policies to lessen the risks associated with road traffic accidents.
