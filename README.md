@@ -118,8 +118,6 @@ This bar graph represents the relationship between the extent of vehicle damage 
 
 Analyzing the relationship between vehicle damage extent and severity of injuries can be helpful in many different ways when it comes to the principle of breaking down the casualties related with car crashes. By understanding how the severity of vehicle damage correlates with the severity of injuries sustained by passengers, politicians, researchers, and safety officers can develop targeted problem solving and policies to lessen the risks associated with road traffic accidents.
 
-	As visible from the graphics above, there seemed to be a pretty direct and linear correlation between the amount of damage done to the car. In the graphics, the more severe the damage was that was done to the vehicle, the more severe the injury tended to be for the passengers in the vehicle. For example, when the vehicle damage was classified as “Disabling” we saw a higher percentage of injuries classified as “suspected serious injury”. This would continue to decrease as the damage done to the car got lighter and lighter.
-
 In conclusion, analyzing the relationship between vehicle damage extent and injury severity is a multi-step problem  with a lot of broad and specific complications for road safety, vehicle design, emergency response, healthcare, and accident investigation. By reflecting on the power of data and insights from this analysis, analysts can work together to create a safer and more efficient transportation system for everyone.
 
 
