@@ -113,7 +113,15 @@ Our second question does not involve any data manipulation. We felt that data ma
 ### Graphs and Analysis:
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
-The graph above is a heat map, we chose to display the data in a heat map because they offer a visually intuitive way to understand complex data and facilitate pattern recognition. As you can see by the dark red box, majority of crashes
+The graph above is a heat map, we chose to display the data in a heat map because they offer a visually intuitive way to understand complex data and facilitate pattern recognition. 
+
+This chart shows us the numeric values of the amount of accidents associated between the type of movement the vehicle was in, along with the extent to which the vehicle was damaged. By analyzing this data, we can identify common scenarios that are more prone to result in accidents and assess the severity of those accidents based on the degree of vehicle damage incurred.
+
+As seen in the visualization above, there are some common trends we can see. The trend to have the biggest disparity seems to be turning left vs turning right. In every category of damage extent, there seems to be at least triple the accidents occuring when drivers were turning left then turning right. This could potentially mean our public service workers need to implement more strict and obvious for left turn lanes as well as stoplights. 
+
+In summary, the numeric values presented in this chart offer valuable insights into the relationship between vehicle movement, damage extent, and accident occurrence, allowing us physical evidence needed to proactively address road safety challenges and strive towards the ultimate goal of reducing the incidence and severity of road traffic accidents.
+
+
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/c05d4179-9dec-4be3-b569-8a21dbc1ccfe)
 
